@@ -1,4 +1,9 @@
-![Uploading 7RwC.gif…]()
+![7RwC](https://user-images.githubusercontent.com/113660331/199424413-94e0fde2-79b2-4752-95db-500151a9cdec.gif)
+
+
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm César Díaz</h1>
