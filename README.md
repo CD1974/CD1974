@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **mjcd1973@gmail.com**
 
-- ⚡ Fun fact **I really like PYTHON**
+- ⚡ Fun fact **I really like PYTHON** ![computadora-y-ordenador-imagen-animada-0178](https://user-images.githubusercontent.com/113660331/199424730-7a76a681-e32b-407c-b3c7-5ffcb7de50e5.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
