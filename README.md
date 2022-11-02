@@ -1,5 +1,4 @@
 
-https://raw.githubusercontent.com/CD1974/PERFIL/blob/main/gif.gif?raw=true
 
 
 
