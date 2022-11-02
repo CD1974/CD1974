@@ -1,7 +1,4 @@
-![fxvT](https://user-images.githubusercontent.com/113660331/199423775-a0162835-343d-486f-afd6-1d727b54c5bb.gif)
-
-
-
+![Uploading 7RwC.gif…]()
 
 
 <h1 align="center">Hi 👋, I'm César Díaz</h1>
