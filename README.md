@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/cedr74" target="blank"><img src="https://img.shields.io/twitter/follow/cedr74?logo=twitter&style=for-the-badge" alt="cedr74" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, Advance python.**
+- 🌱 I’m currently learning ** Advance python, JavaScript.**
 
 - 📫 How to reach me **mjcd1973@gmail.com**
 
