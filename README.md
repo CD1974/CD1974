@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
         <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+        <code><a href="https://www.javascript.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
         <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
         <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
