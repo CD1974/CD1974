@@ -29,7 +29,9 @@
         <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
         <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
         <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-        <code><a href="https://www.php.net/manual/es/index.php" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code>
+        <code><a href="https://www.php.net/manual/es/index.php" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code><br>
+        <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
+        <code><a href="https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd1974&show_icons=true&locale=en&layout=compact" alt="cd1974" /></p>
