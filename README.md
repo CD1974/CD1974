@@ -17,19 +17,16 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-        <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://www.javascript.com/" target="_blank"><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-        <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-        <code><a href="https://numpy.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
-        <code><a href="https://www.php.net/manual/es/index.php" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></a></code><br>
-        <code><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-        <code><a href="https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-        <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
-        <code><a href="https://www.google.com/intl/es_es/drive/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"></a></code>
-</p>
+
+### Languages and Tools:
+<div display="flex">
+        <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&style=plastic">
+        <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&style=plastic">
+        <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=plastic">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&style=plastic">
+        <img src="https://img.shields.io/badge/MySQL%20 -%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=black&labelColor=black&style=plastic">
+</div>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cd1974&show_icons=true&locale=en&layout=compact" alt="cd1974" /></p>
 
