@@ -56,7 +56,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">        
-        <span>𝗚𝗶𝘁𝗵𝘂b</span><br><br><br>
+        <span><b>Github</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
       <td width="25%" align="center">
