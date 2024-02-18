@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning ** Advance python, JavaScript.**
+- 🌱 I’m currently learning **Advance python, JavaScript.**
 
 - 📫 How to reach me **mjcd1973@gmail.com**
 
