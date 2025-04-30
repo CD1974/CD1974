@@ -28,5 +28,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CD1974&show_icons=true&locale=en)
 
-![Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=CD1974)
+![Heroku Stats](https://github-readme-streak-stats.herokuapp.com/?user=CD1974&theme=default)
 
