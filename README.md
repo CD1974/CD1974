@@ -36,6 +36,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CD1974&cache_buster=3)](https://git.io/streak-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CD1974&cache_buster=3&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+
+
 
 
 
